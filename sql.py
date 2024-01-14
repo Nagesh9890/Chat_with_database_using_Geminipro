@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import sqlite3
 import google.generativeai as genai
-genai.configure(api_key='AIzaSyAK42HQzuSnAALuxgbeHnwiPZSyvk2doIY')
+genai.configure(api_key='')
 
 ## Function To Load Google Gemini Model and provide queries as response
 
